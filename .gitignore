@@ -4,3 +4,4 @@ vendor/
 
 #files
 Connection.conf
+TestConfiguration.json
